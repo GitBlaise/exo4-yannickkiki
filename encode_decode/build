@@ -1,0 +1,2 @@
+#!/usr/bin/bash                                                                 
+python3 -m markdown -o 'html5' -f description.html description.md 
